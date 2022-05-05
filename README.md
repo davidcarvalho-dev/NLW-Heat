@@ -4,7 +4,7 @@
 Projeto desenvolvido no evento NLW heat da Rocketseat, o obejtivo foi criar um crachá virtual para o evento DoWhile 2021 promovido pela empresa em dezembro de 2021, a cereimônia tem o intuito de reunir comunidades, tecnologias e empresas do ramo da programação em um único ecossistema cooperativo.
 
 
-<img src="images/nlwHeatPrint.png" alt="Crachá NLW-Heat">
+<img src="images/nlwHeatDesktop.png" alt="Crachá NLW-Heat">
 
 ## Tecnologias utilizadas
 <div style="display: inline_block">
